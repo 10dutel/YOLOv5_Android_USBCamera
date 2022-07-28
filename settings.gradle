@@ -1,0 +1,3 @@
+rootProject.name = "tflite_yolov5_test"
+include ':app'
+include ':libusbcamera'

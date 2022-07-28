@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="410dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/app_name"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        android:text="powered by tensorflowlite"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:layout_marginTop="5dp"
+        android:textStyle="italic"
+        android:textSize="14sp"
+        android:text="1. 如遇闪退情况请在插入USB摄像头后重启应用程序\n2. 不建议在深色模式下使用"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="last modify 2022.07"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:gravity="bottom|center_horizontal"
+        android:paddingBottom="20dp"
+        android:layout_weight="1"/>
+</LinearLayout>

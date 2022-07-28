@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/layout/activity_camera.xml" value="0.3375" />
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/layout/activity_splash.xml" value="0.3375" />
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/layout/activity_usbcamera.xml" value="0.3375" />
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/layout/layout_dialog_list.xml" value="0.3375" />
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/layout/tfe_od_camera_connection_fragment_tracking.xml" value="0.3375" />
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3375" />
+        <entry key="..\:/project/AndroidProject/niu_tflite_yolov5_102/app/src/main/res/menu/main_toobar.xml" value="0.3375" />
+        <entry key="..\:/project/AndroidProject/yolov5s_android-1.0.2/yolov5s_android-1.0.2/app/tflite_yolov5_102/app/src/main/res/layout/tfe_od_camera_connection_fragment_tracking.xml" value="0.3375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

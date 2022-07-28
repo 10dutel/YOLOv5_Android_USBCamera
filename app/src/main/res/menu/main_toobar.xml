@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_takepic"
+        android:title="takingPhotos(拍照)"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_recording"
+        android:title="recording(录像)"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_focus"
+        android:title="cameraFocus(对焦)"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_resolution"
+        android:title="resolution(分辨率)"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_switchcam"
+        android:title="🔄 切换本地摄像头(localCamera)"
+        app:showAsAction="never" />
+</menu>
